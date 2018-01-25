@@ -12,5 +12,5 @@ git remote set-url origin git@github.com:username/your-repository.git
 Now try editing a file (try the README) and then do:
 
 git add -A
-git commit -am "my update msg"
+git commit -am "Original"
 git push

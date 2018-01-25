@@ -1,4 +1,3 @@
-
 const short leftButton = 1;
 const short centerButton = 2;
 const short rightButton = 4;

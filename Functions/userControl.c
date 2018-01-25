@@ -1,4 +1,3 @@
-
 void userDrive(int threshold) {
 	if(vexRT[Ch3] > threshold || vexRT[Ch3] < -threshold || vexRT[Ch4] > threshold || vexRT[Ch4] < -threshold) {
 		if(vexRT[Btn8D] == 1) {
